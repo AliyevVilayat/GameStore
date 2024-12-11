@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\GamingStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\viewmodels\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\viewmodels\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\models\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\models\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|c:\\users\\user\\source\\repos\\gamingstore\\gamingstore.mvc\\exceptions\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937DE5E-AAB7-41BB-8407-733B791D2118}|GamingStore.MVC\\GamingStore.MVC.csproj|solutionrelative:gamingstore.mvc\\exceptions\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GamingStore.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T23:55:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Models\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Models\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Models\\AuditableEntity.cs",
+              "RelativeToolTip": "GamingStore.MVC\\Models\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:32:01.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GamingStore.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T23:27:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "GamingStore.MVC\\Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T23:26:47.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Services\\GameService.cs",
+              "RelativeToolTip": "GamingStore.MVC\\Services\\GameService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:24:06.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Services\\IGameService.cs",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Services\\IGameService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Services\\IGameService.cs",
+              "RelativeToolTip": "GamingStore.MVC\\Services\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:23:46.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "GamingStore.MVC\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:23:17.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\ViewModels\\ProductDetailVM.cs",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\ViewModels\\ProductDetailVM.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\ViewModels\\ProductDetailVM.cs",
+              "RelativeToolTip": "GamingStore.MVC\\ViewModels\\ProductDetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:23:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Models\\Game.cs",
+              "RelativeToolTip": "GamingStore.MVC\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:19:23.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GamingStore.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T23:17:28.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GamingStore.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:16:03.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GamingStore.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T23:17:05.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Exceptions\\GameNotFoundException.cs",
+              "RelativeDocumentMoniker": "GamingStore.MVC\\Exceptions\\GameNotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GamingStore\\GamingStore.MVC\\Exceptions\\GameNotFoundException.cs",
+              "RelativeToolTip": "GamingStore.MVC\\Exceptions\\GameNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:25:05.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
